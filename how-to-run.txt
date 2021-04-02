@@ -1,6 +1,6 @@
 Hi,
 
-   I have made the script in 3h 21m minutes. Now I uploaded the script in git repo.
+   I have made the script in 2h 21m minutes. Now I uploaded the script in git repo.
 
 How to run it.
 
