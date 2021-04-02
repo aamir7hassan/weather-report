@@ -78,7 +78,7 @@
                                         class="weather-icon" /></th></tr>
                         <tr><th>Current Temperature</th><td><?=$weather["main"]['temp']??''?>°C</td></tr>
                         <tr><th>Feels Like</th><td><?=$weather["main"]['feels_like']??''?>°C</td></tr>
-                        <tr><th>Humidity</th><td><?=$weather["main"]['humidity']??''.'%'?></td></tr>
+                        <tr><th>Humidity</th><td><?=$weather["main"]['humidity']??''?>%</td></tr>
                         <tr><th>Mininum Temperature</th><td><?=$weather["main"]['temp_min']??''?>°C</td></tr>
                         <tr><th>Maximum Temperature</th><td><?=$weather["main"]['temp_max']??''?>°C</td></tr>
                         <tr><th>Wind Speed</th><td><?=$weather["wind"]['speed']??''?>mph</td></tr>
