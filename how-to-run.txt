@@ -1,0 +1,11 @@
+Hi,
+
+   I have made the script in 3h 21m minutes. Now I uploaded the script in git repo.
+
+How to run it.
+
+   1) Open config.php file and add API key.
+   2) Run index.php and enjoy
+   3) That's it.
+
+Thanks for consideration.
